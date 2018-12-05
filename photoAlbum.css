@@ -1,0 +1,17 @@
+h1{
+	font-family: Orbitron;
+	width: 30%;
+	margin-left: 1.66%;
+	font-size: 50px;
+	font-weight: 800px;
+	text-transform: uppercase;
+	border-bottom: 2px solid #e8ebef;
+	width: 30%;
+	padding-bottom: 15px;
+}
+img{
+	width: 20%;
+	float: left;
+	margin: 2.5%;
+	box-shadow: 8px 8px 10px #aaa;
+}
